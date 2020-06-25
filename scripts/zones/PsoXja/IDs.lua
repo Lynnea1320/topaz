@@ -33,9 +33,7 @@ zones[tpz.zone.PSOXJA] =
     {
         GYRE_CARLIN_PH =
         {
-            [16814319] = 16814320,
             [16814330] = 16814331,
-            [16814343] = 16814344,
         },
         GARGOYLE_OFFSET         = 16814081,
         NUNYUNUWI               = 16814361,
